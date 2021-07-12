@@ -8,7 +8,7 @@ For future reference, here is a list of the steps needed to set up a project for
 2. Install babel dependencies by running
       npm install babel-cli -D
       npm install babel-preset-env -D
-3. Create a .babelrc file inside your project and add the following code inside it:
+3. Create a .babelrc file inside your project and add the following code inside it: (touch .babelrc)
                 {
                   "presets": ["env"]
                 }
